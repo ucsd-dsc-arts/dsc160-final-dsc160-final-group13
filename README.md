@@ -26,13 +26,14 @@ We will mainly use the dataset of COVID 19 in the USA: (https://www.kaggle.com/s
 
 
 Links for papers and datasets:
-http://web.mit.edu/music21/
-https://pypi.org/project/miditime/
-http://mogren.one/publications/2016/c-rnn-gan/mogren2016crnngan.pdf
-https://arxiv.org/pdf/1708.03535.pdf
-https://www.kaggle.com/sudalairajkumar/covid19-in-usa
-https://github.com/CSSEGISandData/COVID-19?fbclid=IwAR01PCDa9EYqA-6jD-8LEEtfSjUTMxZcS6Dsv-cuPtFz8TiNTi8PDL1nf-U
-https://github.com/daQuincy/DeepMusicvStyle
+
+- http://web.mit.edu/music21/
+- https://pypi.org/project/miditime/
+- http://mogren.one/publications/2016/c-rnn-gan/mogren2016crnngan.pdf
+- https://arxiv.org/pdf/1708.03535.pdf
+- https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+- https://github.com/CSSEGISandData/COVID-19?fbclid=IwAR01PCDa9EYqA-6jD-8LEEtfSjUTMxZcS6Dsv-cuPtFz8TiNTi8PDL1nf-U
+- https://github.com/daQuincy/DeepMusicvStyle
 
 
 
