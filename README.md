@@ -125,96 +125,96 @@ the music out of it.
 
 1.  Music Output:
 
- a). New York overall cases trend:
- [new\_york\_overall.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/new_york_overall.mid),
- this is made by daily overall data in 120 bpm and grand piano, and it
- becomes higher and higher when cases increase as time moves on.
+     a). New York overall cases trend:
+     [new\_york\_overall.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/new_york_overall.mid),
+     this is made by daily overall data in 120 bpm and grand piano, and it
+     becomes higher and higher when cases increase as time moves on.
 
- b\) New York daily increase:
- [new\_york\_daily.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/new_york_daily.mid).
- This is made by daily increase cases in 120 bpm and grand piano. It gets
- gradually higher with variations in its second part.
+     b\) New York daily increase:
+     [new\_york\_daily.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/new_york_daily.mid).
+     This is made by daily increase cases in 120 bpm and grand piano. It gets
+     gradually higher with variations in its second part.
 
- c\) New York State daily increase (except New York City): in 120 bpm and
- grand piano, we made 4 midi sounds that represent 4 different cities in
- New York State:
- [AL.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/AL.mid)
- for Albany,
- [SA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/SA.mid)
- for Saratoga,
- [ES.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/ES.mid)
- for Essex,
- [WY.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/WY.mid)
- for Wyoming. Every midi starts in a different level of base octave and
- scaling based on its geological location (north cities get higher base
- octaves): AL.mid is C4 with C natural minor, WY.mid is C5 with C major,
- SA.mid is C6 with C harmonic minor, and ES.mid is C7 with C melodic
- minor. After making 4 midi, we mixed them together to make a
- representation of New York State, which is
- [NYmix.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix.mid).
- Then, we adjust the instruments for every city to add our styles into
- the music, and thus we have
- [NYmix\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix_various.mid).
- The new instrument for each city is music box for Albany, violin for
- Wyoming, choir aahs for Saratoga, and synthesis choir for Essex.
+     c\) New York State daily increase (except New York City): in 120 bpm and
+     grand piano, we made 4 midi sounds that represent 4 different cities in
+     New York State:
+     [AL.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/AL.mid)
+     for Albany,
+     [SA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/SA.mid)
+     for Saratoga,
+     [ES.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/ES.mid)
+     for Essex,
+     [WY.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix/WY.mid)
+     for Wyoming. Every midi starts in a different level of base octave and
+     scaling based on its geological location (north cities get higher base
+     octaves): AL.mid is C4 with C natural minor, WY.mid is C5 with C major,
+     SA.mid is C6 with C harmonic minor, and ES.mid is C7 with C melodic
+     minor. After making 4 midi, we mixed them together to make a
+     representation of New York State, which is
+     [NYmix.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix.mid).
+     Then, we adjust the instruments for every city to add our styles into
+     the music, and thus we have
+     [NYmix\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/NYmix_various.mid).
+     The new instrument for each city is music box for Albany, violin for
+     Wyoming, choir aahs for Saratoga, and synthesis choir for Essex.
 
- d\) California daily increase: in 120 bpm and grand piano, we made 4 midi
- sounds that represent 4 different cities in California:
- [SD.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SD.mid)
- for San Diego,
- [LA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/LA.mid)
- for Los Angeles,
- [SC.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SC.mid)
- for Sacramento, and
- [SF.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SF.mid)
- for San Francisco. Every midi starts in a different level of base octave
- and scaling based on its geological location (north cities get higher
- base octaves): SD.mid is C4 with C natural minor, LA.mid is C5 with C
- major, SF.mid is C6 with C harmonic minor, and SC.mid is C7 with C
- melodic minor. After making 4 midi, we mixed them together to make a
- representation of California, which is
- [calimix.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/calimix.mid).
- Then, we adjust the instruments for every city to add our styles into
- the music, and thus we have
- [calimix\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/calimix_various.mid).
- The new instrument for each city is trumpet for San Diego, violin for
- Sacramento, church organ for San Francisco, and soundtrack for Los
- Angeles.
+     d\) California daily increase: in 120 bpm and grand piano, we made 4 midi
+     sounds that represent 4 different cities in California:
+     [SD.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SD.mid)
+     for San Diego,
+     [LA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/LA.mid)
+     for Los Angeles,
+     [SC.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SC.mid)
+     for Sacramento, and
+     [SF.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Calimix/SF.mid)
+     for San Francisco. Every midi starts in a different level of base octave
+     and scaling based on its geological location (north cities get higher
+     base octaves): SD.mid is C4 with C natural minor, LA.mid is C5 with C
+     major, SF.mid is C6 with C harmonic minor, and SC.mid is C7 with C
+     melodic minor. After making 4 midi, we mixed them together to make a
+     representation of California, which is
+     [calimix.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/calimix.mid).
+     Then, we adjust the instruments for every city to add our styles into
+     the music, and thus we have
+     [calimix\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/calimix_various.mid).
+     The new instrument for each city is trumpet for San Diego, violin for
+     Sacramento, church organ for San Francisco, and soundtrack for Los
+     Angeles.
 
- e\) Texas daily increase: in 120 bpm and grand piano, we made 4 midi
- sounds that represent 4 different cities in Texas:
- [AU.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/AU.mid)
- for Austin,
- [DA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/DA.mid)
- for Dallas,
- [EI.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/EI.mid)
- for El Paso and
- [HS.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/HS.mid)
- for Houston. Every midi starts in a different level of base octave and
- scaling based on its geological location (north cities get higher base
- octaves): HS.mid is C4 with C natural minor, AU.mid is C5 with C major,
- EI.mid is C6 with C harmonic minor, and DA.mid is C7 with C melodic
- minor. After making 4 midi, we mixed them together to make a
- representation of Texas, which is
- [Texas.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas.mid).
- Then, we adjust the instruments for every city to add our styles into
- the music, and thus we have
- [Texas\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas_various.mid)
- . The new instrument for each city is electric guitar (clean) for
- Austin, electric bass (finger) for Dallas, electric piano for El Paso,
- and synthesis drum for Houston.
+     e\) Texas daily increase: in 120 bpm and grand piano, we made 4 midi
+     sounds that represent 4 different cities in Texas:
+     [AU.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/AU.mid)
+     for Austin,
+     [DA.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/DA.mid)
+     for Dallas,
+     [EI.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/EI.mid)
+     for El Paso and
+     [HS.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas/HS.mid)
+     for Houston. Every midi starts in a different level of base octave and
+     scaling based on its geological location (north cities get higher base
+     octaves): HS.mid is C4 with C natural minor, AU.mid is C5 with C major,
+     EI.mid is C6 with C harmonic minor, and DA.mid is C7 with C melodic
+     minor. After making 4 midi, we mixed them together to make a
+     representation of Texas, which is
+     [Texas.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas.mid).
+     Then, we adjust the instruments for every city to add our styles into
+     the music, and thus we have
+     [Texas\_various.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/Texas_various.mid)
+     . The new instrument for each city is electric guitar (clean) for
+     Austin, electric bass (finger) for Dallas, electric piano for El Paso,
+     and synthesis drum for Houston.
 
- f\) We then looked at the virus cases per county in the United States.
- Any time there is an increase in cases, we assign a note by looking at
- the scale between 1 and the maximum one day case increase in the United
- States. The note pitch decreases as the case velocity increases. As the
- number of counties that have increased case number goes up, the
- intensity of the sounds increases. We then looked at doing a style
- transfer on that midi file. The trumpet sounded quite good aesthetically
- so we put it there. The final result of this midi can be found at
- [trumpet.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/trumpet.mid),
- and the original piano file can be found at
- [myfile.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/myfile.mid)
+     f\) We then looked at the virus cases per county in the United States.
+     Any time there is an increase in cases, we assign a note by looking at
+     the scale between 1 and the maximum one day case increase in the United
+     States. The note pitch decreases as the case velocity increases. As the
+     number of counties that have increased case number goes up, the
+     intensity of the sounds increases. We then looked at doing a style
+     transfer on that midi file. The trumpet sounded quite good aesthetically
+     so we put it there. The final result of this midi can be found at
+     [trumpet.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/trumpet.mid),
+     and the original piano file can be found at
+     [myfile.mid](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group13/blob/master/results/myfile.mid)
 
 2.  GIF output:
 
